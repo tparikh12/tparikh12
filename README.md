@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tparikh12 AKA Tanay Parikh 
 - 👀 I’m interested in coding and golf 
-- 🌱 I’m currently learning javascript and SQL
+- 🌱 I’m currently learning deploying projects on AWS
 - 📫 How to reach me tanayparikh7@gmail.com
 
 <!---
